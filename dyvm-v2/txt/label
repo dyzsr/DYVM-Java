@@ -1,0 +1,7 @@
+data_sec_pos 0x03000000
+in_buf_size 0x00000000
+in_buf_pos 0x10000000
+out_buf_size 0x00000008
+out_buf_pos 0x10080000
+disp_buf_pos 0x10100000
+random_seed_pos 0x00000010

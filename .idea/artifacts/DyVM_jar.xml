@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="DyVM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DyVM_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DyVM.jar">
+        <element id="module-output" name="DyVM" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
